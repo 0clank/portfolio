@@ -1,0 +1,112 @@
+{
+  "de-DE": {
+    "title": "Projekte",
+    "sub-title": "Quick view, über alle meine Projekte.",
+    "languages": "Programmiersprachen",
+    "frameworks": "Frameworks",
+    "technologies": "Technologien",
+    "projects": [
+      {
+        "name": "Grouplando",
+        "description": "Grouplando vereinfacht den Online-Bestellprozess von Essen für Gruppen. Es können eigene Gruppen angelegt werden, in denen das Budget der Mitglieder und die Mitglieder selbst verwaltet werden können. Wird eine Gruppenbestellung über die Webseite erstellt, werden für den Kauf automatisch alle Bestellungen gruppiert und der entsprechende Betrag von den Mitgliedern abgezogen.",
+        "url": "https://grouplando.de/",
+        "url-name": "grouplando.de",
+        "languages": [
+          "Javascript / Typescript",
+          "Java",
+          "HTML 5, CSS 3"
+        ],
+        "frameworks": [
+          "React, Next.js",
+          "Spring, JavaEE",
+          "Tailwindcss"
+        ]
+      },
+      {
+        "name": "Clerkvest",
+        "description": "Clerkvest versucht, Intrapreneurship innerhalb des Unternehmens zu fördern. Unternehmen können eigene Profile anlegen und ein virtuelles monatliches Budget für ihre Mitarbeiter festlegen. Die Mitarbeiter können dieses Budget sparen und alleine oder gemeinsam in Projekte investieren, an denen sie interessiert sind.",
+        "url": "https://clerkvest.de/",
+        "url-name": "clerkvest.de",
+        "languages": [
+          "Javascript / Typescript",
+          "Java",
+          "HTML 5, CSS 3"
+        ],
+        "frameworks": [
+          "Angular",
+          "Spring, JavaEE",
+          ""
+        ]
+      },
+      {
+        "name": "WebVR - threejs",
+        "description": "WebVR - threejs ist ein Projekt, das als Teil meines Praxisprojekts bei der mobfish GmbH und meiner anschließenden Bachelorarbeit entwickelt wurde. Die Software ist eine in Browsern lauffähige Virtual Reality Anwendung, welche auf VR-Brillen, Smartphones sowie Desktop-Computern genutzt werden kann.",
+        "url": null,
+        "url-name": null,
+        "languages": [
+          "Javascript / Typescript",
+          "OpenGL Shading Language",
+          "HTML 5, CSS 3"
+        ],
+        "frameworks": [
+          "threejs"
+        ]
+      }
+    ]
+  },
+  "en-US": {
+    "title": "Projekte",
+    "sub-title": "Quick view, über alle meine Projekte.",
+    "languages": "Programmiersprachen",
+    "frameworks": "Frameworks",
+    "technologies": "Technologien",
+    "projects": [
+      {
+        "name": "Grouplando",
+        "description": "Grouplando vereinfacht den Online-Bestellprozess von Essen für Gruppen. Es können eigene Gruppen angelegt werden, in denen das Budget der Mitglieder und die Mitglieder selbst verwaltet werden können. Wird eine Gruppenbestellung über die Webseite erstellt, werden für den Kauf automatisch alle Bestellungen gruppiert und der entsprechende Betrag von den Mitgliedern abgezogen.",
+        "url": "https://grouplando.de/",
+        "url-name": "grouplando.de",
+        "languages": [
+          "Javascript / Typescript",
+          "Java",
+          "HTML 5, CSS 3"
+        ],
+        "frameworks": [
+          "React, Next.js",
+          "Spring, JavaEE",
+          "Tailwindcss"
+        ]
+      },
+      {
+        "name": "Clerkvest",
+        "description": "Clerkvest versucht, Intrapreneurship innerhalb des Unternehmens zu fördern. Unternehmen können eigene Profile anlegen und ein virtuelles monatliches Budget für ihre Mitarbeiter festlegen. Die Mitarbeiter können dieses Budget sparen und alleine oder gemeinsam in Projekte investieren, an denen sie interessiert sind.",
+        "url": "https://clerkvest.de/",
+        "url-name": "clerkvest.de",
+        "languages": [
+          "Javascript / Typescript",
+          "Java",
+          "HTML 5, CSS 3"
+        ],
+        "frameworks": [
+          "Angular",
+          "Spring, JavaEE",
+          ""
+        ]
+      },
+      {
+        "name": "WebVR - threejs",
+        "description": "WebVR - threejs ist ein Projekt, das als Teil meines Praxisprojekts bei der mobfish GmbH und meiner anschließenden Bachelorarbeit entwickelt wurde. Die Software ist eine in Browsern lauffähige Virtual Reality Anwendung, welche auf VR-Brillen, Smartphones sowie Desktop-Computern genutzt werden kann.",
+        "url": null,
+        "url-name": null,
+        "languages": [
+          "Javascript / Typescript",
+          "OpenGL Shading Language",
+          "HTML 5, CSS 3"
+        ],
+        "frameworks": [
+          "threejs"
+        ]
+      }
+    ]
+  }
+}
